@@ -5,3 +5,4 @@ authors = ["{{authors}}"]
 edition = "2018"
 
 [dependencies]
+cmdr = "0.3"
